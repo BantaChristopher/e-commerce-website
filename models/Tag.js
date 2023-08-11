@@ -14,7 +14,7 @@ Tag.init(
       primaryKey: true,
     },
     tag: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING,
     },
   },
   {
